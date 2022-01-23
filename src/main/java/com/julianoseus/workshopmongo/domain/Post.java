@@ -29,6 +29,7 @@ public class Post implements Serializable{
 		this.id = id;
 		this.date = date;
 		this.title = title;
+		this.body = body;
 		this.author = author;
 	}
 
